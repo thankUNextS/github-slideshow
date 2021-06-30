@@ -1,3 +1,6 @@
-This is my first file!
-
-System.out.println("Hello World!");
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text is Ariana
+Use the left arrow to go back!
